@@ -689,7 +689,7 @@ footer span a:hover {
 @media (max-width: 1104px) {
   .about .about-content .left img {
     height: 400px;
-    width: 500px;
+    width: 450px;
   }
   section .title::after {
     bottom: -8px;
